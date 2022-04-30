@@ -2,8 +2,9 @@
 15 TImes if statements elif statements else statements and match statements run and then it makes up average of it and prints it out
 
 
-
-
+# REQUIRES PYTHON 3.10 OR HIGHER
+match statements have been introduced in python 3.10,
+lower versions will not work!
 
 # LICENSE
 
